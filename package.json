@@ -1,0 +1,23 @@
+{
+  "name": "lsonline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "mrnobody",
+  "license": "ISC",
+  "dependencies": {
+    "anti-spam": "^0.2.7",
+    "antispam-guard": "^3.6.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.3.1",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
